@@ -1,4 +1,4 @@
-# Source code for mohseenrm.github.io
+## Source code for [website-v2](https://mohseenrm.github.io/website-v2/)
 
 <table>
   <thead>
@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://travis-ci.org/mohseenrm/mohseenrm.github.io"><img src="https://travis-ci.org/mohseenrm/mohseenrm.github.io.svg?branch=master" target="_blank"></a>
+        <a href="https://travis-ci.org/mohseenrm/website-v2"><img src="https://travis-ci.org/mohseenrm/website-v2.svg?branch=master" target="_blank"></a>
       </td>
     </tr>
   </tbody>
